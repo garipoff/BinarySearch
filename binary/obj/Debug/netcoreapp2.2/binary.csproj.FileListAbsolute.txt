@@ -1,0 +1,11 @@
+B:\Users\garipoff\source\repos\binary\binary\bin\Debug\netcoreapp2.2\binary.deps.json
+B:\Users\garipoff\source\repos\binary\binary\bin\Debug\netcoreapp2.2\binary.runtimeconfig.json
+B:\Users\garipoff\source\repos\binary\binary\bin\Debug\netcoreapp2.2\binary.runtimeconfig.dev.json
+B:\Users\garipoff\source\repos\binary\binary\bin\Debug\netcoreapp2.2\binary.dll
+B:\Users\garipoff\source\repos\binary\binary\bin\Debug\netcoreapp2.2\binary.pdb
+B:\Users\garipoff\source\repos\binary\binary\obj\Debug\netcoreapp2.2\binary.csproj.CoreCompileInputs.cache
+B:\Users\garipoff\source\repos\binary\binary\obj\Debug\netcoreapp2.2\binary.AssemblyInfoInputs.cache
+B:\Users\garipoff\source\repos\binary\binary\obj\Debug\netcoreapp2.2\binary.AssemblyInfo.cs
+B:\Users\garipoff\source\repos\binary\binary\obj\Debug\netcoreapp2.2\binary.dll
+B:\Users\garipoff\source\repos\binary\binary\obj\Debug\netcoreapp2.2\binary.pdb
+B:\Users\garipoff\source\repos\binary\binary\obj\Debug\netcoreapp2.2\binary.csprojAssemblyReference.cache
