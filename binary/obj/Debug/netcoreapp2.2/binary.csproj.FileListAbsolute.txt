@@ -8,4 +8,3 @@ B:\Users\garipoff\source\repos\binary\binary\obj\Debug\netcoreapp2.2\binary.Asse
 B:\Users\garipoff\source\repos\binary\binary\obj\Debug\netcoreapp2.2\binary.AssemblyInfo.cs
 B:\Users\garipoff\source\repos\binary\binary\obj\Debug\netcoreapp2.2\binary.dll
 B:\Users\garipoff\source\repos\binary\binary\obj\Debug\netcoreapp2.2\binary.pdb
-B:\Users\garipoff\source\repos\binary\binary\obj\Debug\netcoreapp2.2\binary.csprojAssemblyReference.cache
